@@ -1,0 +1,16 @@
+.add-fields {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+.add-btn {
+  height: 52px;
+  width: 100px;
+}
+
+.input__field {
+  width: 350px;
+}
